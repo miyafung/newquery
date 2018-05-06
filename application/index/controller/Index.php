@@ -1,8 +1,9 @@
-<?php
+﻿<?php
 namespace app\index\controller;
 use think\Controller;
 class Index extends Controller 
 {
+//和激光核聚变
     public function index()
     {
     	set_time_limit(0);
